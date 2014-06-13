@@ -4,8 +4,6 @@ str="${data%.wav}"
 str2="${str##*/}"
 str3="$str2.mp3"
 str4="${data##*/}"
-dest=$1
-msg=`exiftool $data`
 tmp=/opt/jail2net
 
 cp $data $tmp
