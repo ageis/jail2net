@@ -2,6 +2,8 @@ jail2net
 =========
 Allows creation of a PBX to accept calls from prisoners and post their recorded messages on SoundCloud and Twitter. Makes the Bureau of Prisons really mad.
 
+The idea is to set up a phone message box for prisoners that automatically sends the correct tone to accept their call, records a WAV which gets converted to an MP3, and uploads it to the Internet.
+
 ###Requirements:
 
 Asterisk, lame, Python, PHP, Bash, soundcloud-python, twitteroauth, a DID number and SIP provider
