@@ -1,10 +1,10 @@
 jail2net
 =========
-Allows creation of a PBX to accept calls from prisoners and post their recorded messages on SoundCloud and Twitter.
+Allows creation of a PBX to accept calls from prisoners and post their recorded messages on SoundCloud and Twitter. Makes the Bureau of Prisons really mad.
 
 ###Requirements:
 
-Asterisk, lame, Python, PHP, Bash, soundcloud-python, twitteroauth, a DID and SIP account
+Asterisk, lame, Python, PHP, Bash, soundcloud-python, twitteroauth, a DID number and SIP provider
 
 ###Instructions:
 
